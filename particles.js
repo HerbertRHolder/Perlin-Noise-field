@@ -32,9 +32,9 @@ function draw() {
   }
 }
 
-function mouseReleased() {
-  noiseSeed(millis());
-}
+// function mouseReleased() {
+//   noiseSeed(millis());
+// }
 
 function onScreen(v) {
   return v.x >= 0 && v.x <= width && v.y >= 0 && v.y <= height;

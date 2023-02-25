@@ -1,9 +1,9 @@
 <h1>Flow Fields and Perlin Noise
 </h1>
 Flow fields and Perlin noise are both concepts used in computer graphics and computer simulations to create realistic and dynamic visual effects.
-<br/>
+
 Flow fields are a way to simulate the movement of particles or objects in a given space. They consist of a grid or mesh of vectors, each of which indicates the direction and speed of movement at a particular point in the space. By applying these vectors to the particles or objects, the simulation can create a fluid and natural movement, such as the flow of a river or the movement of a flock of birds.
-<br/>
+
 Perlin noise, on the other hand, is a mathematical function that generates a random but smooth pattern of values. It is commonly used in computer graphics to create realistic textures, such as clouds or terrain, by assigning the values of the function to different pixels or vertices. Perlin noise can also be used to add randomness and variation to other simulations, such as the movement of particles or the growth of plants.
 
 Flow fields and Perlin noise are both techniques used to create natural and dynamic visual effects in computer simulations and graphics. Flow fields simulate the movement of objects in a space, while Perlin noise generates random but smooth patterns of values that can be used to create textures and add variation to simulations.
@@ -12,7 +12,7 @@ Flow fields and Perlin noise are both techniques used to create natural and dyna
 <h2>This Project uses P5 Generative are Library</h2>
 [P5 Documentation](https://p5js.org/reference/#/p5/square)
 
-Place this script in the body tag of you project file for using the library <br>
+Place this script in the body tag of you project for using the library <br>
 <code><script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.5.0/p5.min.js"></script>
 </code>
 <br>

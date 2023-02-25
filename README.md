@@ -12,7 +12,7 @@ Flow fields and Perlin noise are both techniques used to create natural and dyna
 <h2>This Project uses P5 Generative are Library</h2>
 [P5 Documentation](https://p5js.org/reference/#/p5/square)
 
-cdn <br>
+Place this script in the body tag of you project file for using the library <br>
 <code><script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.5.0/p5.min.js"></script>
 </code>
 <br>
